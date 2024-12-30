@@ -1,6 +1,7 @@
 # SortHero
 
 A powerful media file organizer that automatically renames and sorts your movies and TV shows using TMDB and TVDB data.
+This is still in beta but works really well, i will add some improvements
 
 ## Features
 
